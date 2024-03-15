@@ -1,9 +1,9 @@
-Bibliothèque de scripts très simples pour diff"rentes tâches de TAL
+Bibliothèque de scripts python très simples pour diff"rentes tâches liées au TAL
 
 La règle : moins de 10 lignes de code hors print et import
 
 
-## Distances : Distances entre textes
+## distances : Distances entre textes
 
 INPUT  : une liste de textes sour forme de chaînes de caractères
 
