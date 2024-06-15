@@ -1,4 +1,4 @@
-Bibliothèque de scripts python très simples pour diff"rentes tâches liées au TAL
+Bibliothèque de scripts python très simples pour différentes tâches liées au TAL
 
 La règle : moins de 10 lignes de code hors print et import
 
