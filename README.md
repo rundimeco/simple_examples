@@ -3,7 +3,7 @@ Bibliothèque de scripts python très simples pour différentes tâches liées a
 La règle : moins de 10 lignes de code hors print et import
 
 
-## distances : Distances entre textes
+## distances.py : Distances entre textes
 
 INPUT  : une liste de textes sous forme de chaînes de caractères
 
@@ -11,7 +11,7 @@ OUTPUT : une matrice de distance
 
 REQUIS : sklearn
 
-## alignements : Alignements entre textes
+## alignements.py : Alignements entre textes au grain mot (Julien Bezançon)
 
 INPUT : deux listes de textes sous forme de chaînes de caractères
 
